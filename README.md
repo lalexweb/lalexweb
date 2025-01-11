@@ -32,9 +32,6 @@ evolving field of web development
 | Laravel       | 6             |
 
 ## My socials
-[LinkedIn](https://www.linkedin.com/in/lalex-web)\
-[Facebook](https://www.facebook.com/profile.php?id=61557249545200)\
-[Instagram](https://www.instagram.com/lalex.web/)\
-[Telegram](https://t.me/lalex32)
+[LinkedIn](https://www.linkedin.com/in/lalex-web)  [Facebook](https://www.facebook.com/profile.php?id=61557249545200)  [Instagram](https://www.instagram.com/lalex.web/)  [Telegram](https://t.me/lalex32)
 
 [![lalex-web.com](https://lalex-web.com/resources/main-logo.jpg "Logo" )](https://lalex-web.com)
