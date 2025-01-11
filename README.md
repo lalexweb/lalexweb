@@ -1,4 +1,5 @@
 # Welcome!
+[![lalex-web.com](https://lalex-web.com/resources/main-logo.jpg "Logo" )](https://lalex-web.com)
 ## I'm Alexander Luginin
 > A highly skilled full-stack web developer with over 4 
 years of experience specializing in Laravel, React, and 
@@ -33,5 +34,3 @@ evolving field of web development
 
 ## My socials
 [LinkedIn](https://www.linkedin.com/in/lalex-web)  [Facebook](https://www.facebook.com/profile.php?id=61557249545200)  [Instagram](https://www.instagram.com/lalex.web/)  [Telegram](https://t.me/lalex32)
-
-[![lalex-web.com](https://lalex-web.com/resources/main-logo.jpg "Logo" )](https://lalex-web.com)
