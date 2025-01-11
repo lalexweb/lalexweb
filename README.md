@@ -4,7 +4,7 @@
 
 ## I'm Alexander Luginin
 
-![Alexander Luginin](https://lalex-web.com/resources/ws-main.png "It's me" )
+![Alexander Luginin](https://lalex-web.com/resources/ws-social.jpg "It's me" )
 
 > A highly skilled full-stack web developer with over 4 
 years of experience specializing in Laravel, React, and 
