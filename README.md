@@ -23,6 +23,7 @@ evolving field of web development
 
 * Currently I'm working on [WEBSTART Digital Group](https://webstart.am/en/)
 * My website: [lalex-web.com](https://lalex-web.com)
+* I'm open to job offers, only remotely
 
 ## My skillset 1 to 10
 
