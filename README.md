@@ -1,13 +1,12 @@
 # Welcome!
 [![lalex-web.com](https://lalex-web.com/resources/main-logo.jpg "Logo" )](https://lalex-web.com)
 ## I'm Alexander Luginin
-> A highly skilled full-stack web developer with over 4 
-years of experience specializing in Laravel, React, and 
+> A highly skilled front-end developer with over 4 
+years of experience specializing in React.js and 
 Next.js. Proven expertise in designing and 
 implementing scalable, user-centric web solutions for 
 both commercial enterprises and freelance projects. 
-Adept at building robust back-end systems, developing 
-intuitive front-end interfaces, and optimizing 
+Adept at developing intuitive front-end interfaces, and optimizing 
 application performance. Successful at working with 
 cross-functional teams to deliver impactful results. 
 Committed to continuous learning and leveraging 
@@ -27,6 +26,7 @@ evolving field of web development
 | HTML          | 10            |
 | CSS           | 9             |
 | JavaScript    | 10            |
+| TypeScript    | 10            |
 | React         | 9             |
 | Next.js       | 8             |
 | PHP           | 7             |
