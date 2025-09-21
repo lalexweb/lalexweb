@@ -1,5 +1,7 @@
-# I'm Alexander Luginin
-> I'm a Frontend / Fullstack developer passionate about building products that make people's lives better. I'm always exploring new technologies, following IT trends, and turning bold ideas into real projects. Currently working as a freelancer and open to job opportunities.
+
+
+# Welcome
+> Hi, I'm Alexander Luginin. I'm a Frontend / Fullstack developer passionate about building products that make people's lives better. I'm always exploring new technologies, following IT trends, and turning bold ideas into real projects. Currently working as a freelancer and open to job opportunities.
 
 * Currently I work as a freelancer -> [Kwork](https://kwork.com/user/lalexweb)  [Upwork](https://www.upwork.com/freelancers/~016e5d9a2fe61d19f6)  [Fiverr](https://www.fiverr.com/lalexweb)
 * My website: [lalex-web.com](https://lalex-web.com)
