@@ -1,4 +1,4 @@
-[![lalex-web.com](https://lalex-web.com/logo.webp "Logo" )](https://lalex-web.com)
+[(https://lalex-web.com/logo.webp "Logo" )](https://lalex-web.com)
 
 # Welcome
 > Hi, I'm Alexander Luginin. I'm a Frontend / Fullstack developer passionate about building products that make people's lives better. I'm always exploring new technologies, following IT trends, and turning bold ideas into real projects. Currently working as a freelancer and open to job opportunities.
