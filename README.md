@@ -19,4 +19,4 @@
 | Laravel       | 7             |
 
 ## My socials
-[LinkedIn](https://www.linkedin.com/in/lalex-web)  [Facebook](https://www.facebook.com/profile.php?id=61557249545200)  [Instagram](https://www.instagram.com/lalex.web/)
+[LinkedIn](https://www.linkedin.com/in/lalex-web)   [Instagram](https://www.instagram.com/lalex.web/)  [YouTube](https://www.youtube.com/@lalex-web)
