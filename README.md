@@ -1,4 +1,9 @@
-[![lalex-web.com](https://lalex-web.com/logo.webp "Logo" )](https://lalex-web.com)
+[![lalex-web.com](https://lalex-web.com/logo.webp "Logo")](https://lalex-web.com)
 
-# Welcome
-> Hi, I'm Alexander Luginin. I'm a Software engineer passionate about building products that make people's lives better. I'm always exploring new technologies, following IT trends, and turning bold ideas into real projects.
+# Hi, I'm Alexander Luginin
+
+I'm a **Software Engineer** focused on building and evolving production web applications across the full stack.
+
+My experience spans **frontend, backend, software architecture, and infrastructure**, with a focus on building reliable and maintainable systems.
+
+[Website](https://lalex-web.com) · [LinkedIn](https://www.linkedin.com/in/lalex-web)
